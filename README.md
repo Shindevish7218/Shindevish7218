@@ -13,15 +13,15 @@
 
 - 💬About ::**Almighty God is primal to me. I'm Passionate about tech and carrier minded**
 
-- 📫 How to reach me **pavan.jangale91@gmail.com**
+- 📫 How to reach me **shindevish7218@gmail.com**
                      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/your-work/" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="atudjerry" height="30" width="40" /></a><a href="https://www.linkedin.com/in/pavan-jangale/" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="atudjerry" height="30" width="40" /></a><a href="https://www.linkedin.com/in/vishnu-shinde-479448203/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atud jerry" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/pavan_jangale_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atud_jerry33" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/shindevish_7218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atud_jerry33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +31,4 @@
 
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/pavan-jangale/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/732/948/non_2x/follow-me-button-sign-label-speech-bubble-template-website-tag-banner-sticker-business-vector.jpg" alt="css3" width="140" height="100"/>
+<p align="left"> <a href="https://www.linkedin.com/in/vishnu-shinde-479448203/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/732/948/non_2x/follow-me-button-sign-label-speech-bubble-template-website-tag-banner-sticker-business-vector.jpg" alt="css3" width="140" height="100"/>
